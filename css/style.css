@@ -1,0 +1,18 @@
+#sliderWrapper {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px 0;
+}
+#buttons_wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    gap: 10px;
+}
+.slider_button img {
+    padding-top: 2px;
+}
+.slider img {
+    width: 600px;
+    height: 400px;
+}
